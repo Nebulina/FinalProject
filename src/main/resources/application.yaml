@@ -1,0 +1,16 @@
+Spring:
+  datasource:
+    username: book_interests
+    password: book_interests
+    url: jdbc:mysql://localhost:3306/book_interests
+    
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    defer-datasource-initialization: true
+    
+  sql:
+    init:
+      mode: always
+    

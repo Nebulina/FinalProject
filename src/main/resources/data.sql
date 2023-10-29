@@ -1,0 +1,16 @@
+INSERT INTO genre (genre) VALUES ('fiction');
+INSERT INTO genre (genre) VALUES ('nonfiction');
+INSERT INTO genre (genre) VALUES ('biography');
+INSERT INTO genre (genre) VALUES ('journal');
+INSERT INTO genre (genre) VALUES ('travel');
+INSERT INTO genre (genre) VALUES ('spirituality');
+INSERT INTO genre (genre) VALUES ('romance');
+INSERT INTO genre (genre) VALUES ('adventure');
+INSERT INTO genre (genre) VALUES ('classic');
+INSERT INTO genre (genre) VALUES ('coming of age');
+INSERT INTO genre (genre) VALUES ('fantasy');
+INSERT INTO genre (genre) VALUES ('self help');
+INSERT INTO genre (genre) VALUES ('poetry');
+INSERT INTO genre (genre) VALUES ('philosophy');
+INSERT INTO genre (genre) VALUES ('thriller');
+INSERT INTO genre (genre) VALUES ('crime');
